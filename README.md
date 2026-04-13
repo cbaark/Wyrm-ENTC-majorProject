@@ -1,6 +1,6 @@
 Centralised finance management platform to help SMEs deal with cash flow, compliance and strategic planning.
-
-- **Data Visualisations **made in Tableau Public and put into the admin dashboard
+---
+- **Data Visualisations** made in Tableau Public and put into the admin dashboard
 - **Automated Calculations** for GST, Income Tax, Superannuation, Payroll Tax, including their conditional niches
 - **Budget Alerts** utilising colour-coding to help admins see exactly what is happening at a glance
 - **Role-Based Access** with distinct UIs for staff (simplified data entry) and admins (high level understanding of the system)
